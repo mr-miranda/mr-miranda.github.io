@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Me Myself and I"
 title_separator          : "-"
 name                     : &name "Mark Russel Miranda"
-description              : &description "personal description"
+description              : &description "Newby Data Scientist"
 url                      : https://mr-miranda.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mr-miranda/mr-miranda.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Mark Russel Miranda"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Awesome Data Scientist"
+  location         : "Cebu City"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "daddyawesome"
   google_plus      :
   keybase          :
   instagram        :
