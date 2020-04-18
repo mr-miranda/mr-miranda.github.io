@@ -4,7 +4,7 @@ title: "Certifications"
 author_profile: true
 redirect_from: 
   - /certifications/
-  - /certifications/.html
+  - /certifications.html
 ---
 
 ## My Certificates
