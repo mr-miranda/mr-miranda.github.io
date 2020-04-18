@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Certifications"
-    url: /certifications/
+    url: https://daddyawesome.github.io/data_science/about/
     
   - title: "Publications"
     url: /publications/
